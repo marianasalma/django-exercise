@@ -1,1 +1,1 @@
-web: gunicorn marianas-first-django.wsgi --log-file -
+web: gunicorn first_django.wsgi --log-file -
